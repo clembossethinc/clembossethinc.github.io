@@ -377,7 +377,7 @@ margin-top: 0%;
 .section-5 .banner {
 min-height: 700px;
 width: 100%;
-background: url("../img/header2.jpg") no-repeat 0 -200px;
+background: url("../img/headway-537308-unsplash.jpg") no-repeat 0 -200px;
 text-align: center;
 color:#ffffff;
 background-size: cover;
@@ -845,9 +845,10 @@ header .container{
 
 
   .section-5 .banner {
-  min-height: 450px;
+  min-height: 600px;
   width: 100%;
-  background: url("../img/header2.jpg") no-repeat;
+  background: url("../img/headway-537308-unsplash.jpg") no-repeat 0 -00px;
+
   text-align: center;
   color:#ffffff;
   background-size: contain ;
@@ -1173,7 +1174,7 @@ body {
 
   .section-2 .button{
     width: auto;
-    padding-bottom: 3px;
+    padding-bottom: 0px;
     margin-bottom: 40px;
   }
 
@@ -1205,9 +1206,8 @@ body {
   }
 
   .section-5 .banner {
-  min-height: 450px;
+  min-height: 230px;
   width: 100%;
-  background: url("../img/header3.jpg") no-repeat;
   text-align: center;
   color:#ffffff;
   background-size: contain ;
@@ -1351,7 +1351,7 @@ font-size: 20px;
           border-color:#e8491d ;
           margin-bottom: 15px;
 
-        padding: 7px 10px 7px 10px}
+        padding: 0px 10px 0px 10px}
 
 
 
@@ -1360,7 +1360,7 @@ font-size: 20px;
 
 
 input{
-  width: 89%;
+  width: 100%;
 }
 
 
@@ -1431,9 +1431,7 @@ input{
 
 
 
-.section-2 .button{
-  padding-bottom: 8px
-}
+
 
 
 }
